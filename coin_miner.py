@@ -9,7 +9,7 @@ def check_hash(hash, num_zero):
 start = time.time()
 hash_of_preceding_coin = b"a9c1ae3f4fc29d0be9113a42090a5ef9fdef93f5ec4777a008873972e60bb532"
 id_of_miner = b"free-vbucks"
-num_zeros = 7
+num_zeros = 4
 
 found = False
 
